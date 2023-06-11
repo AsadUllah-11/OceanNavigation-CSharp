@@ -1,0 +1,14 @@
+E:\second\Object Oriented Programming\WeekFour\PD\ProblemOne\problemOne\problemOne\bin\Debug\problemOne.exe.config
+E:\second\Object Oriented Programming\WeekFour\PD\ProblemOne\problemOne\problemOne\bin\Debug\problemOne.exe
+E:\second\Object Oriented Programming\WeekFour\PD\ProblemOne\problemOne\problemOne\bin\Debug\problemOne.pdb
+E:\second\Object Oriented Programming\WeekFour\PD\ProblemOne\problemOne\problemOne\obj\Debug\problemOne.csproj.AssemblyReference.cache
+E:\second\Object Oriented Programming\WeekFour\PD\ProblemOne\problemOne\problemOne\obj\Debug\problemOne.csproj.CoreCompileInputs.cache
+E:\second\Object Oriented Programming\WeekFour\PD\ProblemOne\problemOne\problemOne\obj\Debug\problemOne.exe
+E:\second\Object Oriented Programming\WeekFour\PD\ProblemOne\problemOne\problemOne\obj\Debug\problemOne.pdb
+E:\second\Object Oriented Programming\WeekFour\PD\oceanNavigation(2022-CS-11)\problemOne\problemOne\bin\Debug\problemOne.exe.config
+E:\second\Object Oriented Programming\WeekFour\PD\oceanNavigation(2022-CS-11)\problemOne\problemOne\bin\Debug\problemOne.exe
+E:\second\Object Oriented Programming\WeekFour\PD\oceanNavigation(2022-CS-11)\problemOne\problemOne\bin\Debug\problemOne.pdb
+E:\second\Object Oriented Programming\WeekFour\PD\oceanNavigation(2022-CS-11)\problemOne\problemOne\obj\Debug\problemOne.csproj.AssemblyReference.cache
+E:\second\Object Oriented Programming\WeekFour\PD\oceanNavigation(2022-CS-11)\problemOne\problemOne\obj\Debug\problemOne.csproj.CoreCompileInputs.cache
+E:\second\Object Oriented Programming\WeekFour\PD\oceanNavigation(2022-CS-11)\problemOne\problemOne\obj\Debug\problemOne.exe
+E:\second\Object Oriented Programming\WeekFour\PD\oceanNavigation(2022-CS-11)\problemOne\problemOne\obj\Debug\problemOne.pdb
